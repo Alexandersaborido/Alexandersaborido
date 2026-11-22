@@ -80,13 +80,3 @@ Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvime
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### "A melhor maneira de aprender é construindo."
-
-⭐ Obrigado por visitar meu perfil!
-
-</div>
