@@ -44,11 +44,10 @@ Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvime
 
 ## 🛠️ Ferramentas
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github,vscode" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="48" height="48"/>
+</p>
 
 ---
 
