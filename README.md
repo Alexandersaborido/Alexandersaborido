@@ -8,8 +8,7 @@
 
 # Olá, eu sou Alexander Saborido
 
-### Desenvolvedor em formação | Cursando Técnico em Informática
-
+### Desenvolvedor em formação
 
 
 </div>
