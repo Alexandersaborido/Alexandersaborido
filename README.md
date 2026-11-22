@@ -42,7 +42,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvime
 
 ---
 
-## ⚙️ Frameworks e ferramentas
+## 🛠️ Ferramentas
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvime
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
 
 </div>
 
