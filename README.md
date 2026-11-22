@@ -63,15 +63,6 @@ Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvime
 
 ---
 
-## 🚀 Projetos
-
-Aqui estão alguns projetos que desenvolvi ou estou desenvolvendo para colocar em prática meus conhecimentos.
-
-
-> Os projetos acima são espaços reservados. Substitua pelos seus repositórios reais.
-
----
-
 ## 📫 Contato
 
 <div align="center">
