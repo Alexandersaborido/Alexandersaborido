@@ -1,7 +1,4 @@
-## Tecnologias
+### Desenvolvedor | Estudante de Técnico em Informática
 
-- Java
-- C#
-- JavaScript
-- HTML
-- CSS
+Sou estudante de tecnologia, interessado em desenvolvimento
+de software e criação de projetos.
