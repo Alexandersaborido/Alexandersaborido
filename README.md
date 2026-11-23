@@ -50,7 +50,7 @@ Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvime
 <img src="https://skillicons.dev/icons?i=github,vscode" />
 
 </div>
----
+
 
 ## 🗄️ Banco de dados
 
